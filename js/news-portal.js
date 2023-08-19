@@ -66,6 +66,10 @@ const showCategoryNews = (data , category_name) => {
                 </div>
                 <div>
                     <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half"></i>
                 </div>
                 <div>
                     <i class="fas fa-arrow-right" onclick ="fetchNewsDetail('${_id}')" data-bs-toggle="modal" data-bs-target="#exampleModal"></i>
